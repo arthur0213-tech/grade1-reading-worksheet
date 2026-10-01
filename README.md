@@ -1,6 +1,9 @@
 # 國小一年級「一頁四本」班級閱讀紀錄學習單 📚
 
-專為國小一年級（剛入學初學注音符號階段）學童設計的省紙、低門檻、同儕分享閱讀紀錄單產生器。
+> 🌐 **線上網頁直接使用（免安裝、支援手機/平板/電腦直接列印）**：  
+> 👉 **[https://arthur0213-tech.github.io/grade1-reading-worksheet/](https://arthur0213-tech.github.io/grade1-reading-worksheet/)**
+
+專為國小一年級（剛入學初學注音符號階段）學童設計的省紙、低門檻、同儕分享閱讀紀錄單產生器。  
 一張 A4 紙張可記錄 4 本書，支援瀏覽器即開即用、一鍵列印與自訂版型切換。
 
 ---
@@ -44,7 +47,7 @@
 ## 🚀 線上使用方式
 
 - 本專案採用純前端靜態技術（HTML5 + Tailwind CSS + Vanilla JS），無須架設伺服器。
-- 開啟 `index.html` 即可直接在任何現代瀏覽器（Chrome, Edge, Safari, Firefox）中執行。
+- 點擊上方線上網址，或開啟 `index.html` 即可直接在現代瀏覽器（Chrome, Edge, Safari, Firefox）中執行。
 
 ---
 
